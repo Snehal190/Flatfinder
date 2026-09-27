@@ -1,0 +1,34 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+// Postgres (Neon via Vercel Storage, or Supabase). DATABASE_URL is the pooled URL used by the app;
+// DATABASE_URL_UNPOOLED is the direct URL used by migrations.
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DATABASE_URL_UNPOOLED")
+}
+
+model Group {
+  id        String   @id
+  name      String?
+  isDemo    Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  people    Person[]
+}
+
+model Person {
+  id          String    @id
+  groupId     String
+  group       Group     @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  token       String    @unique
+  name        String
+  position    Int
+  answers     String? // JSON-encoded PersonAnswers, validated with Zod
+  submittedAt DateTime?
+  updatedAt   DateTime  @updatedAt
+
+  @@index([groupId])
+}

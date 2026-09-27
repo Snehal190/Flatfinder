@@ -1,0 +1,2799 @@
+[
+  {
+    "id": "bnr-01",
+    "title": "Top-floor 3BHK with a private terrace",
+    "areaId": "baner",
+    "society": "Kesar Heights",
+    "address": "Kesar Heights, Pancard Club Road",
+    "rentMonthly": 54000,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1380,
+    "floor": 11,
+    "totalFloors": 11,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 235,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 195,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 165,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 12,
+    "availableFrom": "2026-10-07",
+    "description": "Corner flat on the top floor with a 200 sq ft terrace that catches the evening breeze off the Baner hill. Owner lives in Bangalore and is relaxed about pets and guests. The drive to Hinjewadi Phase 1 is the catch at peak hour.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "bnr-02",
+    "title": "Airy 3BHK in a low-rise near Baner Gaon",
+    "areaId": "baner",
+    "society": "Mitra Kunj",
+    "address": "Mitra Kunj, Baner Gaon Lane 4",
+    "rentMonthly": 60000,
+    "deposit": 180000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1290,
+    "floor": 4,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "gated",
+      "modular_kitchen",
+      "parking_2w",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "nonveg",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 220,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 20,
+    "availableFrom": "2026-10-22",
+    "description": "Four-storey building tucked behind the old village temple, so it's quiet after 9 pm. Big windows on both sides. Top floor with no lift and the rent is at the upper end for the lane.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "bnr-03",
+    "title": "Tidy 3BHK close to Baner metro",
+    "areaId": "baner",
+    "society": "Sai Aangan",
+    "address": "Sai Aangan, Baner Road, near Mahabaleshwar Hotel",
+    "rentMonthly": 58000,
+    "deposit": 200000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1150,
+    "floor": 6,
+    "totalFloors": 9,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "no_timing",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 195,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 140,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 6,
+    "availableFrom": "2026-11-06",
+    "description": "Six minutes' walk to the Baner metro station with a supermarket on the ground floor. Only two bathrooms for three bedrooms. Society rules say no pets and the owner prefers vegetarian tenants.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "bal-01",
+    "title": "Sunny 3BHK a walk from Balewadi High Street",
+    "areaId": "balewadi",
+    "society": "Amber Crest",
+    "address": "Amber Crest, Balewadi High Street",
+    "rentMonthly": 51000,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1320,
+    "floor": 6,
+    "totalFloors": 12,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 225,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 185,
+        "attachedBath": false,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 18,
+    "availableFrom": "2026-10-11",
+    "description": "East-facing, with a washing machine and ACs in all three bedrooms already fitted. Balewadi High Street's cafés are five minutes away. No balcony, and the building faces the main road.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "bal-02",
+    "title": "Compact ground-floor 3BHK behind the stadium",
+    "areaId": "balewadi",
+    "society": "Shree Ganesh Residency",
+    "address": "Shree Ganesh Residency, Stadium Road, Lane 2",
+    "rentMonthly": 48000,
+    "deposit": 120000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1060,
+    "floor": 1,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "unfurnished",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "lift",
+      "near_metro",
+      "parking_2w",
+      "pet_friendly",
+      "power_backup"
+    ],
+    "lifestyle": [
+      "no_timing",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 125,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 12,
+    "availableFrom": "2026-10-27",
+    "description": "First-floor flat in a small four-storey building, so no lift is needed. Twelve minutes on foot to the Balewadi stadium metro. It's unfurnished and the rooms are on the smaller side.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "bal-03",
+    "title": "Premium 3BHK in a gated Balewadi tower",
+    "areaId": "balewadi",
+    "society": "Orchid Towers",
+    "address": "Orchid Towers, Balewadi Phata",
+    "rentMonthly": 57000,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1410,
+    "floor": 14,
+    "totalFloors": 18,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 240,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 195,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 170,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 14,
+    "availableFrom": "2026-10-17",
+    "description": "Clubhouse, pool and a proper gym downstairs, fully furnished and ready to move in. Balconies off two bedrooms. Priced slightly above most Balewadi 3BHKs.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "bal-04",
+    "title": "Older 3BHK in a walk-up near Balewadi Gaon",
+    "areaId": "balewadi",
+    "society": "Ashirwad Apartments",
+    "address": "Ashirwad Apartments, Balewadi Gaon Road",
+    "rentMonthly": 44000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1100,
+    "floor": 4,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "modular_kitchen",
+      "parking_2w",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 130,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 22,
+    "availableFrom": "2026-10-02",
+    "description": "Good value for the area and the owner has just repainted. Top floor of a walk-up, so it's four flights with shopping bags. No power backup.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "aun-01",
+    "title": "Spacious 3BHK off ITI Road",
+    "areaId": "aundh",
+    "society": "Parihar Greens",
+    "address": "Parihar Greens, ITI Road",
+    "rentMonthly": 68000,
+    "deposit": 200000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1450,
+    "floor": 5,
+    "totalFloors": 10,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "owner_elsewhere",
+      "women_friendly",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 245,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 205,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 175,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 10,
+    "availableFrom": "2026-11-01",
+    "description": "Quiet, leafy stretch of ITI Road with bakeries and D-Mart nearby. Fully furnished with good light. It's expensive, and the drive to Hinjewadi at peak hour is long.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "aun-02",
+    "title": "Old-Aundh 3BHK with a big balcony",
+    "areaId": "aundh",
+    "society": "Sindh Society Row",
+    "address": "Sindh Society Row, Sindh Society, Lane 3",
+    "rentMonthly": 48000,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1250,
+    "floor": 3,
+    "totalFloors": 3,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "gated",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "nonveg",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 215,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 175,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 15,
+    "availableFrom": "2026-10-09",
+    "description": "Top floor of a 1980s building in one of Aundh's calmest lanes, with a long balcony over mango trees. No lift. The owner lives on the ground floor.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "aun-03",
+    "title": "2BHK + study near Bremen Chowk",
+    "areaId": "aundh",
+    "society": "Vasundhara",
+    "address": "Vasundhara, DP Road, Bremen Chowk",
+    "rentMonthly": 42000,
+    "deposit": 120000,
+    "bhk": 2,
+    "bathrooms": 2,
+    "carpetSqft": 1020,
+    "floor": 0,
+    "totalFloors": 7,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "no_timing",
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 175,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 145,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Study",
+        "sqft": 120,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 9,
+    "availableFrom": "2026-10-05",
+    "description": "Ground-floor flat with a small sit-out garden, and the study is big enough for a single bed. Only two bathrooms. It faces the parking lot.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "pas-01",
+    "title": "Leafy 3BHK off Pashan–Sus Road",
+    "areaId": "pashan",
+    "society": "Green Meadows",
+    "address": "Green Meadows, Pashan–Sus Road",
+    "rentMonthly": 52500,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1340,
+    "floor": 3,
+    "totalFloors": 7,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "owner_elsewhere",
+      "quiet_street"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 230,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 190,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-15",
+    "description": "Looks onto the Pashan hill, fully furnished with balconies off the living room and master bedroom. Sus Road gets you to Hinjewadi without the highway. The owner is vegetarian and doesn't allow pets.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "pas-02",
+    "title": "Lovely 5th-floor walk-up with lake views",
+    "areaId": "pashan",
+    "society": "Sutarwadi Heights",
+    "address": "Sutarwadi Heights, Near Pashan Lake",
+    "rentMonthly": 40000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1300,
+    "floor": 5,
+    "totalFloors": 5,
+    "hasLift": false,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "modular_kitchen",
+      "parking_2w",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 220,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-04",
+    "description": "The prettiest flat on the list: a wraparound balcony over Pashan lake, fully furnished and well under budget. The catch is five floors of stairs and no lift.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "pas-03",
+    "title": "Renovated 3BHK near NCL",
+    "areaId": "pashan",
+    "society": "Panchvati Enclave",
+    "address": "Panchvati Enclave, NCL Colony Road",
+    "rentMonthly": 55500,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1360,
+    "floor": 2,
+    "totalFloors": 8,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "owner_elsewhere",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 230,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 190,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 165,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-19",
+    "description": "Freshly renovated with a new modular kitchen and bathrooms, in a green, quiet campus-side lane. A little above what most of the group wants to spend.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "bav-01",
+    "title": "Hill-view 3BHK in Bavdhan",
+    "areaId": "bavdhan",
+    "society": "Nisarg Park",
+    "address": "Nisarg Park, Chandni Chowk Road",
+    "rentMonthly": 44000,
+    "deposit": 120000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1310,
+    "floor": 7,
+    "totalFloors": 12,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "quiet_street"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 225,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-25",
+    "description": "Wide views of the NDA hills and cool evenings. Groceries mean a drive. Aundh is a 25-minute ride through Chandni Chowk traffic.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "bav-02",
+    "title": "Budget 3BHK in an older Bavdhan society",
+    "areaId": "bavdhan",
+    "society": "Ram Nagar CHS",
+    "address": "Ram Nagar CHS, Bavdhan Khurd",
+    "rentMonthly": 36000,
+    "deposit": 90000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1080,
+    "floor": 3,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "unfurnished",
+    "amenities": [
+      "attached_bath",
+      "modular_kitchen",
+      "parking_2w"
+    ],
+    "lifestyle": [
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 130,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-11-11",
+    "description": "Honest, cheap and a bit dated. Third floor, no lift, no backup, and the owner lives two doors down.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "wak-01",
+    "title": "Corner 3BHK near Wakad Chowk",
+    "areaId": "wakad",
+    "society": "Silver Oak Residency",
+    "address": "Silver Oak Residency, Wakad–Hinjewadi Road",
+    "rentMonthly": 45000,
+    "deposit": 135000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1240,
+    "floor": 9,
+    "totalFloors": 14,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 210,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 175,
+        "attachedBath": false,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-12",
+    "description": "Fully furnished corner flat with cross-ventilation and a balcony off the living room. Fifteen minutes to Hinjewadi Phase 1. Only two bathrooms, and Wakad Chowk is loud at rush hour.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "wak-02",
+    "title": "Large 3BHK in a gated Wakad township",
+    "areaId": "wakad",
+    "society": "Kalpataru Vista",
+    "address": "Kalpataru Vista, Dange Chowk",
+    "rentMonthly": 50000,
+    "deposit": 180000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1420,
+    "floor": 10,
+    "totalFloors": 20,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 240,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 200,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 170,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-29",
+    "description": "Township with a pool, jogging track and weekend market. Three bathrooms and generous rooms. The owner wants a six-month deposit, which is steep.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "wak-03",
+    "title": "Well-priced 3BHK behind Phoenix Mall",
+    "areaId": "wakad",
+    "society": "Siddhi Enclave",
+    "address": "Siddhi Enclave, Bhumkar Chowk Lane",
+    "rentMonthly": 38000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1180,
+    "floor": 5,
+    "totalFloors": 7,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_car",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 200,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 165,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 140,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-17",
+    "description": "Good price, lift, three bathrooms. The society has car slots only, and two-wheelers have to go on the street outside.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "wak-04",
+    "title": "2BHK + study near Wakad bridge",
+    "areaId": "wakad",
+    "society": "Pratik Apartments",
+    "address": "Pratik Apartments, Kaspate Vasti",
+    "rentMonthly": 32000,
+    "deposit": 80000,
+    "bhk": 2,
+    "bathrooms": 2,
+    "carpetSqft": 980,
+    "floor": 3,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "modular_kitchen",
+      "parking_2w",
+      "pet_friendly",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "no_timing",
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 165,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 135,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Study",
+        "sqft": 120,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-07",
+    "description": "The cheapest place on the list that would still work for three. The study is snug. Third floor with no lift.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "hin-01",
+    "title": "Phase 1 3BHK walking distance to offices",
+    "areaId": "hinjewadi",
+    "society": "Megapolis Sunway",
+    "address": "Megapolis Sunway, Hinjewadi Phase 1",
+    "rentMonthly": 36000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1100,
+    "floor": 12,
+    "totalFloors": 22,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 130,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 10,
+    "availableFrom": "2026-10-03",
+    "description": "Walk to the Phase 1 offices, with the metro station opening nearby. Huge township, so it can feel anonymous. Everything east of the highway is a long ride.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "hin-02",
+    "title": "Phase 2 3BHK with clubhouse",
+    "areaId": "hinjewadi",
+    "society": "Blue Ridge",
+    "address": "Blue Ridge, Hinjewadi Phase 2",
+    "rentMonthly": 41000,
+    "deposit": 120000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1250,
+    "floor": 8,
+    "totalFloors": 16,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 215,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 175,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 14,
+    "availableFrom": "2026-10-22",
+    "description": "Fully furnished with a riverside jogging track. Very good value. The trade is distance: Aundh and the city centre are 40+ minutes away.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "hin-03",
+    "title": "2BHK + study in Maan village",
+    "areaId": "hinjewadi",
+    "society": "Om Sai Park",
+    "address": "Om Sai Park, Maan Road",
+    "rentMonthly": 30000,
+    "deposit": 75000,
+    "bhk": 2,
+    "bathrooms": 2,
+    "carpetSqft": 950,
+    "floor": 4,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "unfurnished",
+    "amenities": [
+      "attached_bath",
+      "modular_kitchen",
+      "parking_2w"
+    ],
+    "lifestyle": [
+      "nonveg",
+      "quiet_street"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 160,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 135,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Study",
+        "sqft": 115,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-11-16",
+    "description": "Very cheap, with fields out the back. Unfurnished, fourth floor, no lift, and you'd need a vehicle for everything.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "pim-01",
+    "title": "Budget-friendly 3BHK in Pimple Saudagar",
+    "areaId": "pimple_saudagar",
+    "society": "Rose Valley",
+    "address": "Rose Valley, Kunal Icon Road",
+    "rentMonthly": 42000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1210,
+    "floor": 2,
+    "totalFloors": 11,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "nonveg",
+      "women_friendly",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 205,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 170,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 145,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-09",
+    "description": "Quiet inner road with a vegetable market two minutes away, and three proper bathrooms. The owner is particular about late nights and guests. Aundh is 20 minutes across the bridge.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "pim-02",
+    "title": "Roomy 3BHK near Shivar Chowk",
+    "areaId": "pimple_saudagar",
+    "society": "Govind Garden",
+    "address": "Govind Garden, Shivar Chowk",
+    "rentMonthly": 39000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1190,
+    "floor": 4,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "modular_kitchen",
+      "parking_2w",
+      "pet_friendly",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 200,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 165,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 145,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-15",
+    "description": "Spacious rooms and a lively neighbourhood full of places to eat. Fourth floor of a walk-up.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "pim-03",
+    "title": "New-build 3BHK in a gated complex",
+    "areaId": "pimple_saudagar",
+    "society": "Vision Galaxy",
+    "address": "Vision Galaxy, Rahatani Road",
+    "rentMonthly": 49000,
+    "deposit": 200000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1330,
+    "floor": 6,
+    "totalFloors": 14,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 225,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-11-04",
+    "description": "Brand new, never lived in, with a gym and play area. The broker is asking a ₹2L deposit, well above what the group planned for.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "kot-01",
+    "title": "Within-budget 3BHK near Karishma Society",
+    "areaId": "kothrud",
+    "society": "Shubham Apartments",
+    "address": "Shubham Apartments, Karishma Chowk",
+    "rentMonthly": 46000,
+    "deposit": 120000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1260,
+    "floor": 3,
+    "totalFloors": 7,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "nonveg",
+      "women_friendly",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 215,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 175,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 10,
+    "availableFrom": "2026-10-13",
+    "description": "Sensible, well-kept and a ten-minute walk to the Kothrud metro. Everything a flat should be, but Aundh is a 30-minute cross-city ride and Hinjewadi is further.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "kot-02",
+    "title": "Old-Kothrud 3BHK walk-up",
+    "areaId": "kothrud",
+    "society": "Mayur Colony CHS",
+    "address": "Mayur Colony CHS, Mayur Colony",
+    "rentMonthly": 39000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1140,
+    "floor": 3,
+    "totalFloors": 3,
+    "hasLift": false,
+    "furnishing": "unfurnished",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w"
+    ],
+    "lifestyle": [
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 195,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 135,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 12,
+    "availableFrom": "2026-10-27",
+    "description": "Peaceful colony with big trees and good snacks at the corner shop. Top floor, no lift, and the owner downstairs prefers vegetarian tenants.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "kot-03",
+    "title": "3BHK by the Vanaz metro station",
+    "areaId": "kothrud",
+    "society": "Vanaz Corner",
+    "address": "Vanaz Corner, Paud Road",
+    "rentMonthly": 55000,
+    "deposit": 165000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1300,
+    "floor": 8,
+    "totalFloors": 12,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 220,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 3,
+    "availableFrom": "2026-10-06",
+    "description": "Three minutes from the Vanaz metro station, fully furnished and bright. Paud Road traffic noise reaches the front rooms.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "kar-01",
+    "title": "Quiet 3BHK near Karve Nagar lake garden",
+    "areaId": "karve_nagar",
+    "society": "Kamala Residency",
+    "address": "Kamala Residency, Hingne Road",
+    "rentMonthly": 37000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1120,
+    "floor": 2,
+    "totalFloors": 5,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "nonveg",
+      "women_friendly",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 190,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 135,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-18",
+    "description": "Calm residential pocket near the canal garden, and very affordable. It's far from the west-side IT parks, and the owner locks the gate at 11 pm.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "kar-02",
+    "title": "2BHK + study in Karve Nagar",
+    "areaId": "karve_nagar",
+    "society": "Swapnashilpa",
+    "address": "Swapnashilpa, Warje Road",
+    "rentMonthly": 43000,
+    "deposit": 120000,
+    "bhk": 2,
+    "bathrooms": 2,
+    "carpetSqft": 1050,
+    "floor": 6,
+    "totalFloors": 9,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 145,
+        "attachedBath": false,
+        "ac": true
+      },
+      {
+        "name": "Study",
+        "sqft": 125,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-11",
+    "description": "Fully furnished with a big study that could be a third bedroom. Only two bathrooms and no balcony.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "dec-01",
+    "title": "Heritage bungalow-floor 3BHK in Deccan",
+    "areaId": "deccan",
+    "society": "Prabhat Villa",
+    "address": "Prabhat Villa, Prabhat Road, Lane 12",
+    "rentMonthly": 65000,
+    "deposit": 250000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1600,
+    "floor": 0,
+    "totalFloors": 2,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 270,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 225,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 190,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 10,
+    "availableFrom": "2026-11-21",
+    "description": "Ground floor of a 1960s bungalow with high ceilings and a garden. Charming and central, and priced for it.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "dec-02",
+    "title": "Central 3BHK near Deccan metro",
+    "areaId": "deccan",
+    "society": "Garware Heights",
+    "address": "Garware Heights, FC Road end",
+    "rentMonthly": 58000,
+    "deposit": 175000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1280,
+    "floor": 7,
+    "totalFloors": 10,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 220,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 5,
+    "availableFrom": "2026-10-08",
+    "description": "Five minutes from the Deccan Gymkhana metro station, with FC Road on the doorstep. Noisy, no balcony, and far from the IT parks.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "shi-01",
+    "title": "3BHK above Shivajinagar metro",
+    "areaId": "shivajinagar",
+    "society": "Model Colony Crest",
+    "address": "Model Colony Crest, Model Colony",
+    "rentMonthly": 62000,
+    "deposit": 180000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1330,
+    "floor": 5,
+    "totalFloors": 9,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 225,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 4,
+    "availableFrom": "2026-10-23",
+    "description": "Model Colony address with metro, cafés and colleges all within a short walk. Well above budget for most groups.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "shi-02",
+    "title": "Older 3BHK near Modern College",
+    "areaId": "shivajinagar",
+    "society": "Janaki Niwas",
+    "address": "Janaki Niwas, Ganeshkhind Road",
+    "rentMonthly": 48000,
+    "deposit": 120000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1170,
+    "floor": 4,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 200,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 165,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 140,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 8,
+    "availableFrom": "2026-10-16",
+    "description": "Central, cheap for the area and near the metro. It's a tired old building on a busy road, top floor with no lift.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "kp-01",
+    "title": "Designer 3BHK in Koregaon Park Lane 6",
+    "areaId": "koregaon_park",
+    "society": "The Banyan",
+    "address": "The Banyan, Lane 6, North Main Road",
+    "rentMonthly": 85000,
+    "deposit": 300000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1650,
+    "floor": 3,
+    "totalFloors": 6,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "quiet_street"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 280,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 230,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 200,
+        "attachedBath": true,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-27",
+    "description": "Beautifully done up and shaded by huge rain trees, with every bedroom en-suite and air-conditioned. It costs almost double what the group planned.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "kp-02",
+    "title": "Garden-facing 3BHK in KP Annexe",
+    "areaId": "koregaon_park",
+    "society": "Riverdale",
+    "address": "Riverdale, KP Annexe",
+    "rentMonthly": 78000,
+    "deposit": 250000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1500,
+    "floor": 2,
+    "totalFloors": 5,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "quiet_street"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 255,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 210,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 180,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-11-08",
+    "description": "Overlooks a private garden, with pets welcome. Very expensive, and far from the west-side offices.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "kp-03",
+    "title": "Ground-floor 3BHK in Lane 7",
+    "areaId": "koregaon_park",
+    "society": "Lane 7 Cottage",
+    "address": "Lane 7 Cottage, Lane 7",
+    "rentMonthly": 72000,
+    "deposit": 250000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1400,
+    "floor": 0,
+    "totalFloors": 2,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "quiet_street"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 240,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 195,
+        "attachedBath": false,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 170,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-17",
+    "description": "Cottage-style ground floor with a veranda. Only two bathrooms, and still very pricey.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "kal-01",
+    "title": "Riverside 3BHK in Kalyani Nagar",
+    "areaId": "kalyani_nagar",
+    "society": "Marigold Towers",
+    "address": "Marigold Towers, Riverside Drive",
+    "rentMonthly": 75000,
+    "deposit": 225000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1480,
+    "floor": 9,
+    "totalFloors": 15,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 250,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 205,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 180,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 12,
+    "availableFrom": "2026-10-14",
+    "description": "River views and a short walk to the metro. Kavita's partner would love it. Everyone else's commute and budget would not.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "kal-02",
+    "title": "Mid-size 3BHK near Kalyani Nagar metro",
+    "areaId": "kalyani_nagar",
+    "society": "Saffron Court",
+    "address": "Saffron Court, Central Avenue",
+    "rentMonthly": 68000,
+    "deposit": 200000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1300,
+    "floor": 4,
+    "totalFloors": 8,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "near_metro",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 220,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": 7,
+    "availableFrom": "2026-10-26",
+    "description": "Well-connected, with good restaurants nearby. Expensive, and a long way from Hinjewadi and Aundh.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "vim-01",
+    "title": "3BHK near Phoenix Marketcity",
+    "areaId": "viman_nagar",
+    "society": "Skyline Oasis",
+    "address": "Skyline Oasis, Nagar Road",
+    "rentMonthly": 60000,
+    "deposit": 180000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1350,
+    "floor": 7,
+    "totalFloors": 13,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 230,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 190,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": 16,
+    "availableFrom": "2026-10-21",
+    "description": "Ready to move in, with the mall and airport minutes away. Over budget, and a 75-minute peak-hour drive from Hinjewadi.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "vim-02",
+    "title": "Walk-up 3BHK in Viman Nagar",
+    "areaId": "viman_nagar",
+    "society": "Datta Mandir CHS",
+    "address": "Datta Mandir CHS, Datta Mandir Chowk",
+    "rentMonthly": 52000,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1200,
+    "floor": 4,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "semi",
+    "amenities": [
+      "attached_bath",
+      "balcony",
+      "modular_kitchen",
+      "parking_2w",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 205,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 170,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 145,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-10",
+    "description": "Reasonable for Viman Nagar and close to Symbiosis. Top floor, no lift, two bathrooms.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "vim-03",
+    "title": "Bright 3BHK off Airport Road",
+    "areaId": "viman_nagar",
+    "society": "Clover Park",
+    "address": "Clover Park, Airport Road",
+    "rentMonthly": 56000,
+    "deposit": 160000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1290,
+    "floor": 5,
+    "totalFloors": 10,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 220,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-11-02",
+    "description": "Well-maintained, but there's flight noise in the mornings. Too far east for anyone working in Hinjewadi.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "khr-01",
+    "title": "3BHK next to EON IT Park",
+    "areaId": "kharadi",
+    "society": "Gera Greens",
+    "address": "Gera Greens, EON Free Zone Road",
+    "rentMonthly": 50000,
+    "deposit": 150000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1320,
+    "floor": 11,
+    "totalFloors": 20,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 225,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 160,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-13",
+    "description": "Township living next to EON, with plenty of food options. Great for East-Pune offices and awkward for everyone else.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "khr-02",
+    "title": "Value 3BHK in Kharadi Bypass",
+    "areaId": "kharadi",
+    "society": "Mangal Bhairav",
+    "address": "Mangal Bhairav, Kharadi Bypass",
+    "rentMonthly": 47000,
+    "deposit": 140000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1180,
+    "floor": 3,
+    "totalFloors": 7,
+    "hasLift": true,
+    "furnishing": "unfurnished",
+    "amenities": [
+      "attached_bath",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "power_backup"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 200,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 165,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 140,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-11-10",
+    "description": "A decent price for a lift building, but unfurnished, on the bypass, and only two bathrooms.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "had-01",
+    "title": "Magarpatta City 3BHK",
+    "areaId": "hadapsar",
+    "society": "Magarpatta Cosmos",
+    "address": "Magarpatta Cosmos, Magarpatta City",
+    "rentMonthly": 45000,
+    "deposit": 135000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1290,
+    "floor": 6,
+    "totalFloors": 11,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 220,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-18",
+    "description": "Car-free internal roads, a big park and very safe. A long way from the west-side offices, gyms and family.",
+    "listedBy": "broker"
+  },
+  {
+    "id": "had-02",
+    "title": "Budget 3BHK in Hadapsar",
+    "areaId": "hadapsar",
+    "society": "Sai Siddhi",
+    "address": "Sai Siddhi, Solapur Road",
+    "rentMonthly": 34000,
+    "deposit": 90000,
+    "bhk": 3,
+    "bathrooms": 2,
+    "carpetSqft": 1100,
+    "floor": 4,
+    "totalFloors": 4,
+    "hasLift": false,
+    "furnishing": "unfurnished",
+    "amenities": [
+      "attached_bath",
+      "modular_kitchen",
+      "parking_2w"
+    ],
+    "lifestyle": [
+      "nonveg",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 185,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 155,
+        "attachedBath": false,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 130,
+        "attachedBath": false,
+        "ac": false
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-30",
+    "description": "Very cheap, on the noisy Solapur Road. Fourth floor with no lift and no backup.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "wan-01",
+    "title": "Green 3BHK near Wanowrie Bazaar",
+    "areaId": "wanowrie",
+    "society": "Clover Hills",
+    "address": "Clover Hills, Jagtap Chowk",
+    "rentMonthly": 38000,
+    "deposit": 100000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1250,
+    "floor": 5,
+    "totalFloors": 9,
+    "hasLift": true,
+    "furnishing": "semi",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "pet_friendly",
+      "power_backup",
+      "semi_furnished"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "women_friendly",
+      "quiet_street",
+      "near_groceries"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 215,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 175,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-10-24",
+    "description": "Leafy cantonment-side neighbourhood with a lovely weekly bazaar, and good value. Far from Aundh and Hinjewadi.",
+    "listedBy": "owner"
+  },
+  {
+    "id": "wan-02",
+    "title": "Furnished 3BHK near Salunke Vihar",
+    "areaId": "wanowrie",
+    "society": "Salunke Vihar Towers",
+    "address": "Salunke Vihar Towers, Salunke Vihar Road",
+    "rentMonthly": 42000,
+    "deposit": 120000,
+    "bhk": 3,
+    "bathrooms": 3,
+    "carpetSqft": 1270,
+    "floor": 8,
+    "totalFloors": 12,
+    "hasLift": true,
+    "furnishing": "full",
+    "amenities": [
+      "ac_room",
+      "attached_bath",
+      "balcony",
+      "fully_furnished",
+      "gated",
+      "lift",
+      "modular_kitchen",
+      "parking_2w",
+      "parking_car",
+      "power_backup",
+      "semi_furnished",
+      "washing_machine"
+    ],
+    "lifestyle": [
+      "guests_overnight",
+      "no_timing",
+      "nonveg",
+      "owner_elsewhere",
+      "women_friendly",
+      "quiet_street"
+    ],
+    "rooms": [
+      {
+        "name": "Master bedroom",
+        "sqft": 215,
+        "attachedBath": true,
+        "ac": true
+      },
+      {
+        "name": "Bedroom 2",
+        "sqft": 180,
+        "attachedBath": true,
+        "ac": false
+      },
+      {
+        "name": "Bedroom 3",
+        "sqft": 150,
+        "attachedBath": false,
+        "ac": true
+      }
+    ],
+    "metroWalkMinutes": null,
+    "availableFrom": "2026-11-05",
+    "description": "Fully furnished in a calm army-adjacent area. No pets, and it's the far side of the city from the west-side offices.",
+    "listedBy": "broker"
+  }
+]
