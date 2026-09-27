@@ -22,6 +22,7 @@ export interface GroupRecord {
   isDemo: boolean;
   createdAt: Date;
   people: PersonRecord[];
+  checks: CheckedFlatRecord[];
 }
 
 function parseAnswers(raw: string | null): PersonAnswers | null {
@@ -37,6 +38,7 @@ function parseAnswers(raw: string | null): PersonAnswers | null {
 type RawGroup = {
   id: string; name: string | null; isDemo: boolean; createdAt: Date;
   people: { id: string; token: string; name: string; position: number; answers: string | null; submittedAt: Date | null; updatedAt: Date }[];
+  checks?: CheckedFlatRecord[];
 };
 
 function toRecord(g: RawGroup): GroupRecord {
@@ -48,6 +50,7 @@ function toRecord(g: RawGroup): GroupRecord {
     people: g.people
       .sort((a, b) => a.position - b.position)
       .map((p) => ({ ...p, answers: parseAnswers(p.answers) })),
+    checks: [...(g.checks ?? [])].sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime()),
   };
 }
 
@@ -86,7 +89,7 @@ export async function createGroup(input: CreateGroupInput): Promise<GroupRecord>
 }
 
 export async function getGroup(id: string): Promise<GroupRecord | null> {
-  const g = await prisma.group.findUnique({ where: { id }, include: { people: true } });
+  const g = await prisma.group.findUnique({ where: { id }, include: { people: true, checks: true } });
   return g ? toRecord(g) : null;
 }
 
@@ -100,4 +103,24 @@ export async function markSubmitted(personId: string): Promise<void> {
 
 export async function deleteGroup(id: string): Promise<void> {
   await prisma.group.deleteMany({ where: { id } });
+}
+
+export interface CheckedFlatRecord {
+  id: string;
+  url: string | null;
+  title: string;
+  facts: string;
+  createdAt: Date;
+}
+
+export async function listCheckedFlats(groupId: string): Promise<CheckedFlatRecord[]> {
+  return prisma.checkedFlat.findMany({ where: { groupId }, orderBy: { createdAt: "desc" } });
+}
+
+export async function addCheckedFlat(groupId: string, input: { url: string | null; title: string; facts: string }): Promise<CheckedFlatRecord> {
+  return prisma.checkedFlat.create({ data: { id: nanoid(12), groupId, ...input } });
+}
+
+export async function deleteCheckedFlat(groupId: string, id: string): Promise<void> {
+  await prisma.checkedFlat.deleteMany({ where: { id, groupId } });
 }

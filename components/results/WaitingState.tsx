@@ -25,7 +25,7 @@ export function WaitingState({ view }: { view: GroupView }) {
             </li>
           ))}
         </ul>
-        <p className="mt-6 text-sm text-ink/70">This page refreshes itself. Forgot your link? Ask whoever created the group to resend it.</p>
+        <p className="mt-6 text-sm text-ink/70">This page refreshes itself. Once everyone&apos;s in, you&apos;ll also be able to paste links to flats you find online and check them against all three sets of answers.</p>
       </div>
       <div className="flex justify-center md:justify-end">
         <FloatingBadge bounce size={180} label={`${view.submittedCount} of 3 submitted`}>

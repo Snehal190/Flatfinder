@@ -70,3 +70,4 @@ export function computeResults(people: PersonInput[], listings: Listing[], commu
     mustHaves: people.map((p) => ({ name: p.name, items: mustHaveList(p) })),
   };
 }
+export { checkFlat, type FlatCheck, type CheckVerdict } from "./check";

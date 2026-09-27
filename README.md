@@ -25,6 +25,15 @@ Open http://localhost:3000. The home page is the whole first step: enter three n
 
 > With npm 11+, approve the Prisma/esbuild install scripts if prompted (`npm install-scripts approve …`); they're already listed under `allowScripts` in `package.json`.
 
+## Checking a flat you found online
+
+Once all three have submitted, the results page has a **Found a flat online? Check it** button, which opens `/g/[groupId]/check`.
+
+- Paste a link from 99acres, Housing.com, MagicBricks, NoBroker or any other site. The app reads what's in the web address itself (BHK, area, size, and sometimes the rent). It doesn't fetch the page, because these sites block automated access.
+- Optionally paste the listing description. `lib/listing-parse.ts` picks out rent, deposit, floor, lift, bathrooms, parking, pets, furnishing and house rules, and handles "no pets" and "veg only" correctly.
+- Confirm the pre-filled details (mostly taps), then check. The flat runs through the same engine as the options. The result shows whether it passes everyone's dealbreakers, which rule breaks for whom, and what each person gets and gives up.
+- Checked flats are saved for the group (the `CheckedFlat` table) and re-checked automatically if anyone changes her answers.
+
 ## Demo
 
 - **http://localhost:3000/demo** resets the Riya / Meera / Kavita group with scenario answers (everyone submitted) and opens the results.

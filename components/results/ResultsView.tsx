@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { RevealUp } from "@/components/ui/RevealUp";
 import type { GroupView } from "@/lib/group-view";
+import { CheckFlatCta } from "./CheckFlatCta";
 import { DealbreakerStrip } from "./DealbreakerStrip";
 import { ExclusionPanel } from "./ExclusionPanel";
 import { OptionCard } from "./OptionCard";
@@ -48,7 +49,12 @@ export function ResultsView({ view, unlocked }: { view: GroupView; unlocked: Unl
               ? `Only ${results.eligibleCount} flat${results.eligibleCount > 1 ? "s pass" : " passes"} everyone's dealbreakers. The rest are clearly flagged near-misses. None of them is 'the one'. Pick the tradeoff you're happiest with.`
               : "No flat passes every dealbreaker, so the options below are clearly flagged near-misses."}
         </p>
-        <p className="mt-4 text-sm font-semibold">For {names.join(" · ")}</p>
+        <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3">
+          <p className="text-sm font-semibold">For {names.join(" · ")}</p>
+          <Link href={`/g/${view.id}/check`} className="inline-flex min-h-[44px] items-center rounded-full bg-ink px-5 text-xs font-bold uppercase tracking-wider text-bg">
+            Found a flat online? Check it →
+          </Link>
+        </div>
       </RevealUp>
 
       <RevealUp className="mt-12">
@@ -73,6 +79,10 @@ export function ResultsView({ view, unlocked }: { view: GroupView; unlocked: Unl
       </section>
 
       <RevealUp className="mt-20">
+        <CheckFlatCta groupId={view.id} checks={unlocked.checks} />
+      </RevealUp>
+
+      <RevealUp className="mt-10">
         <ExclusionPanel
           exclusions={results.exclusions}
           closeCalls={results.closeCalls}

@@ -45,3 +45,28 @@ export const createGroupSchema = z.object({
   groupName: z.string().trim().max(60).optional(),
   names: z.array(z.string().trim().min(1).max(30)).length(3),
 });
+
+/** Amenities a person can tick for a flat found online (the rest are derived from structure). */
+export const FLAT_AMENITY_IDS = [
+  "parking_car", "parking_2w", "pet_friendly", "balcony", "gated", "power_backup", "washing_machine", "modular_kitchen",
+] as const;
+
+export const flatFactsSchema = z.object({
+  url: z.string().trim().url().max(2000).optional().or(z.literal("")),
+  title: z.string().trim().min(1).max(120),
+  areaId: areaId,
+  rentMonthly: z.number().int().min(5000).max(500000),
+  deposit: z.number().int().min(0).max(5000000),
+  bhk: z.number().int().min(1).max(5),
+  bathrooms: z.number().int().min(1).max(5),
+  floor: z.number().int().min(0).max(60),
+  totalFloors: z.number().int().min(1).max(60),
+  hasLift: z.boolean(),
+  furnishing: z.enum(["unfurnished", "semi", "full"]),
+  metro: z.enum(["near", "far", "none"]),
+  amenities: z.array(z.enum(FLAT_AMENITY_IDS)),
+  lifestyle: z.array(lifestyleId),
+  attachedBaths: z.number().int().min(0).max(3),
+  acRooms: z.number().int().min(0).max(3),
+}).refine((f) => f.floor <= f.totalFloors, { message: "Floor can't be higher than the building", path: ["floor"] });
+export type FlatFacts = z.infer<typeof flatFactsSchema>;

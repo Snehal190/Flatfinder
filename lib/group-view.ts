@@ -5,8 +5,18 @@
 import { getCommute } from "./data/commute";
 import { getListings } from "./data/listings";
 import type { GroupRecord, PersonRecord } from "./db/groups";
-import { computeResults, type GroupResults } from "./matching";
-import { DEFAULT_ANSWERS, type PersonAnswers } from "./schema";
+import { factsToListing } from "./flat-facts";
+import { checkFlat, computeResults, type FlatCheck, type GroupResults, type PersonInput } from "./matching";
+import { DEFAULT_ANSWERS, flatFactsSchema, type FlatFacts, type PersonAnswers } from "./schema";
+
+export interface CheckedFlatView {
+  id: string;
+  url: string | null;
+  title: string;
+  createdAt: string;
+  facts: FlatFacts;
+  result: FlatCheck;
+}
 
 export interface PersonStatus {
   name: string;
@@ -26,6 +36,7 @@ export interface GroupView {
     updatedAt: string;
     results: GroupResults;
     editLinks: { name: string; href: string }[];
+    checks: CheckedFlatView[];
   };
 }
 
@@ -52,7 +63,7 @@ export function buildGroupView(g: GroupRecord): GroupView {
   };
   if (!allSubmitted) return { ...base, unlocked: null };
 
-  const inputs = g.people.map((p) => ({ name: p.name, answers: p.answers ?? DEFAULT_ANSWERS }));
+  const inputs = groupInputs(g);
   const updatedAt = new Date(Math.max(...g.people.map((p) => p.updatedAt.getTime()))).toISOString();
   return {
     ...base,
@@ -60,6 +71,10 @@ export function buildGroupView(g: GroupRecord): GroupView {
       updatedAt,
       results: computeResults(inputs, getListings(), getCommute),
       editLinks: g.people.map((p) => ({ name: p.name, href: `/g/${g.id}/p/${p.token}` })),
+      checks: g.checks.flatMap((c) => {
+        const view = buildCheckedFlatView(c, inputs);
+        return view ? [view] : [];
+      }),
     },
   };
 }
@@ -78,5 +93,32 @@ export function buildPersonView(g: GroupRecord, me: PersonRecord): PersonView {
       hasSaved: me.answers !== null,
       submittedAt: me.submittedAt?.toISOString() ?? null,
     },
+  };
+}
+
+export function groupInputs(g: GroupRecord): PersonInput[] {
+  return g.people.map((p) => ({ name: p.name, answers: p.answers ?? DEFAULT_ANSWERS }));
+}
+
+/** Re-evaluates a saved flat against the group's current answers (answers may have changed). */
+export function buildCheckedFlatView(
+  c: { id: string; url: string | null; title: string; facts: string; createdAt: Date },
+  inputs: PersonInput[],
+): CheckedFlatView | null {
+  let raw: unknown;
+  try {
+    raw = JSON.parse(c.facts);
+  } catch {
+    return null;
+  }
+  const parsed = flatFactsSchema.safeParse(raw);
+  if (!parsed.success) return null;
+  return {
+    id: c.id,
+    url: c.url,
+    title: c.title,
+    createdAt: c.createdAt.toISOString(),
+    facts: parsed.data,
+    result: checkFlat(factsToListing(parsed.data, c.id), inputs, getCommute),
   };
 }
